@@ -1,0 +1,9 @@
+{
+	"name": "unicorn",
+	"description": "D bindings for the Unicorn Engine CPU emulator",
+	"homepage": "https://www.unicorn-engine.org/",
+	"license": "GPL",
+	"importPaths": ["."],
+	"libs-posix" : ["unicorn"],
+	"targetType" : "sourceLibrary"
+}
